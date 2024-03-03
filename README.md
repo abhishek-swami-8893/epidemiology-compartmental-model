@@ -2,4 +2,5 @@
 Epidemiology Compartmental Model
 
 ##Output
-<img src="ModelOutput.PNG" width=30%>
+<img src="DeathCount.PNG" width=30%>
+Death Count of Real world Data
