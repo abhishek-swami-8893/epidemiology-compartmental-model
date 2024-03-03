@@ -1,2 +1,2 @@
-# epidemilogy-compartmental-model
+# epidemiology-compartmental-model
 Epidemiology Compartmental Model
