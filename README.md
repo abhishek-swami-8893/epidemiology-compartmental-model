@@ -80,6 +80,7 @@ Comparison of actual death count and best-fit output from the model using logist
 
 ---
 
+📄 **Project Report**: [View Full PDF Report](docs/Project_Document_EpidemiologyCompartmentalModel.pdf)
 
 ## 📁 Folder Structure
 
@@ -88,5 +89,5 @@ Comparison of actual death count and best-fit output from the model using logist
 /visuals/         → predictions_plot.png  
 README.md  
 requirements.txt  
-.gitignore
+docs
 
