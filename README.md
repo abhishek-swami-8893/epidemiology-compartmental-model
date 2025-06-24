@@ -55,8 +55,10 @@ Transitions between these compartments are governed by a system of ordinary diff
 
 ## 📁 Folder Structure
 
-/model/ → SEQIHRDV model equations (Python script)
-/data/ → COVID-19 death data (India)
-/visuals/ → Charts of projections, infection trends, and R₀
-README.md → Project documentation
-requirements.txt → Required Python libraries
+/model/           → model_seqihrdv.py  
+/data/            → sample_dataset.csv  
+/visuals/         → predictions_plot.png  
+README.md  
+requirements.txt  
+.gitignore
+
