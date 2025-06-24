@@ -53,6 +53,34 @@ Transitions between these compartments are governed by a system of ordinary diff
 
 ---
 
+
+## 📊 Visualizations
+
+### 1. SEQIHRDV Compartment Structure
+![SEQIHRDV Model](visuals/SQIHRDV_Model.PNG)  
+This diagram illustrates the transitions between compartments: Susceptible (S), Exposed (E), Quarantined (Q), Infected (I), Hospitalized (H), Recovered (R), Deceased (D), and Vaccinated (V).
+
+---
+
+### 2. Actual COVID-19 Death Count (India)
+![Actual Death Count](visuals/ActualDeathCount.PNG)  
+Observed cumulative death count over 1000+ days, sourced from the Humanitarian Data Exchange (HDX).
+
+---
+
+### 3. Core SEQIHRDV Model Behavior
+![Compartment Trends](visuals/CoreModelBehaviour.PNG)  
+Shows how the population distributes over time across all compartments under the SEQIHRDV model simulation.
+
+---
+
+### 4. Model Fit vs Real Data
+![Curve Fit](visuals/CurvFit(ModelvsActual).PNG)  
+Comparison of actual death count and best-fit output from the model using logistic curve and LMfit optimization.
+
+---
+
+
 ## 📁 Folder Structure
 
 /model/           → model_seqihrdv.py  
